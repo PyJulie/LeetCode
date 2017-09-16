@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode无聊时解乏的小练习
+无聊时解乏的小练习
